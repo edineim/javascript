@@ -16,3 +16,7 @@ const multiplicacao = primeiroNumero * segundoNumero;
 console.log(multiplicacao);
 
 
+const num1 = 2
+const frase= 'deefs'
+
+console.log('deiufheruif',num1, frase)

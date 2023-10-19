@@ -1,4 +1,4 @@
-// const - nao é permitido alterar valor da varivel durante o codigo
+// const - nao é permitido alterar valor da varivel durante o codigo e precisa preencher um valor
 // var - cria uma variavel
 // let - a variavel pode mudar de valor durante o codigo
 
